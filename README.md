@@ -55,7 +55,7 @@ local window = gui.createComponent({
     Type = "Window", 
     Title = "Hello", 
     Children = {
-	      Go = { 
+		Go = { 
             Type = "Button", 
             Caption = "Go" 
         }
